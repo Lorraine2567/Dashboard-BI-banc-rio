@@ -1,4 +1,4 @@
-#🏦 Dashboard BI Bancário Estratégico
+🏦 Dashboard BI Bancário Estratégico
 
 Análise de rentabilidade e risco de 5.000 transações bancárias fictícias, desenvolvida em Power BI com foco em gerar insights estratégicos para apoio à tomada de decisão.
 
