@@ -1,21 +1,21 @@
-🏦 Dashboard BI Bancário Estratégico
+# Dashboard BI Bancário Estratégico
 
 Análise de rentabilidade e risco de 5.000 transações bancárias fictícias, desenvolvida em Power BI com foco em gerar insights estratégicos para apoio à tomada de decisão.
 
 
-🎯 Objetivo do Projeto
+# Objetivo do Projeto
 
 Simular um cenário bancário real para identificar oportunidades de aumento de lucro e redução de risco, analisando desempenho financeiro, comportamento de clientes e níveis de inadimplência.
 
 
-🛠 Ferramentas Utilizadas
+# Ferramentas Utilizadas
 
 - Power BI Desktop
 - Microsoft Excel
 - DAX (medidas e KPIs)
 
 
-📊 Estrutura do Dashboard
+# Estrutura do Dashboard
 
 - Visão Executiva
   KPIs financeiros principais e evolução do lucro ao longo do tempo
@@ -27,7 +27,7 @@ Simular um cenário bancário real para identificar oportunidades de aumento de 
   Monitoramento de inadimplência, análise geográfica e desempenho por tipo de agência
 
 
-🔍 Principais Insights
+# Principais Insights
 
 - O segmento Varejo apresentou o maior lucro total, indicando maior volume e potencial de receita
 - Produtos como Seguro de Vida e Cartão Platinum se destacaram em rentabilidade
@@ -36,7 +36,7 @@ Simular um cenário bancário real para identificar oportunidades de aumento de 
 - Existe uma relação visível entre score de crédito baixo e maior inadimplência, indicando padrão de risco
 
 
-❓ Perguntas de Negócio Respondidas
+# Perguntas de Negócio Respondidas
 
 1. Qual o volume total transacionado?
 2. Qual o lucro gerado?
@@ -50,14 +50,14 @@ Simular um cenário bancário real para identificar oportunidades de aumento de 
 10. Qual cidade concentra mais alertas de baixa rentabilidade?
 
 
-📌 Diferenciais do Projeto
+# Diferenciais do Projeto
 
 - Modelagem de dados estruturada
 - Criação de KPIs estratégicos com DAX
 - Análise orientada a negócio (não apenas visual)
 - Dashboard interativo com navegação por páginas
 
-👩‍💻 Autora
+# Autora
 
 Lorraine Carvalho
 Estudante de Sistemas de Informação — PUC Minas
